@@ -8,6 +8,6 @@ Semantic tags
 2. two
 ```
 
-[CV page repository](https://github.com/vplotnikov-ru/cv_page_frontender)
+[CV page repository](https://vplotnikov-ru.github.io/cv_page_frontender/)
 
 ![image](img/ava.png)
